@@ -1,1 +1,1 @@
-# JavaProj
+# Learning Java
